@@ -1,0 +1,12 @@
+site_name: My Docs
+site_url: https://github.com/dozunaru/dozunaru.github.io.git
+theme:
+  name: material
+  font:
+    text: Noto Sans JP
+    code: Inconsolata
+extra:
+  generator: false
+plugins:
+  search:
+    lang: 'ja'
