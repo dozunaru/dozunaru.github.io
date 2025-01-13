@@ -8,5 +8,7 @@ theme:
 extra:
   generator: false
 plugins:
-  search:
-    lang: 'ja'
+  - blog:
+      blog_dir: .
+  - search:
+      lang: 'ja'
