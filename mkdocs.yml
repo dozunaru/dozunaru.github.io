@@ -1,14 +1,49 @@
-site_name: My Docs
+site_name: 染太郎（しみたろう）のインデックス投資雑記帳
+site_description: 染太郎（しみたろう）がインデックス投資を中心に語ります。
 site_url: https://github.com/dozunaru/dozunaru.github.io.git
 theme:
   name: material
-  font:
-    text: Noto Sans JP
-    code: Inconsolata
-extra:
-  generator: false
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: deep orange
+      accent: deep purple
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+extra_css:
+  - css/extra.css
 plugins:
   - blog:
       blog_dir: .
+      categories_allowed:
+        - 投資
+        - 節約
+        - 住宅
+        - 散財
+        - IT
   - search:
       lang: 'ja'
+#  - git-revision-date-localized:
+#      locale: ja
+  - rss:
+      match_path: posts/.* 
+      pretty_print: true
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
+      categories:
+        - categories
+        - tags
+extra:
+  social:
+    - icon: material/rss
+      link: feed_rss_created.xml
+      name: Subscribe to our RSS Feed
