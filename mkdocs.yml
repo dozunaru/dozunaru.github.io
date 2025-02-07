@@ -5,6 +5,7 @@ site_url: https://github.com/dozunaru/dozunaru.github.io.git
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     # Dark Mode
     - scheme: slate
