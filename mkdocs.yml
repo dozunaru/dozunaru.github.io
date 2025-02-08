@@ -2,25 +2,9 @@ site_name: 染太郎（しみたろう）のインデックス投資雑記帳
 site_description: 染太郎（しみたろう）がインデックス投資を中心に語ります。
 site_url: https://github.com/dozunaru/dozunaru.github.io.git
 
-
 theme:
   name: material
   custom_dir: overrides
-  palette:
-    # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: deep orange
-      accent: deep purple
-    # Light Mode
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Light mode
-      primary: blue
-      accent: deep orange
 markdown_extensions:
   - attr_list
   - md_in_html
