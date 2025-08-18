@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>染太郎（しみたろう）のインデックス投資雑記帳</title>
+    <description>染太郎（しみたろう）がインデックス投資による資産形成と資産取り崩しを考えます。</description>
+    <link>https://github.com/dozunaru/dozunaru.github.io.git/</link>
+    <atom:link href="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    
+    <language>en</language>
+
+    
+    <pubDate>Mon, 18 Aug 2025 00:38:26 -0000</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 00:38:26 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.17.3</generator>
+
+    
+    
+    <image>
+      <url>None</url>
+      <title>染太郎（しみたろう）のインデックス投資雑記帳</title>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>安全資産の蓄え方</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;安全資産の蓄え方&lt;/h1&gt;
+&lt;p&gt;総資産が増えてくると、安全資産（無リスク資産）も増えて1000万円を超えるようになります。1000万円超の安全資産を蓄える方法としては下記のようなものがあります。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/08/10/%E5%AE%89%E5%85%A8%E8%B3%87%E7%94%A3%E3%81%AE%E8%93%84%E3%81%88%E6%96%B9/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/08/10/%E5%AE%89%E5%85%A8%E8%B3%87%E7%94%A3%E3%81%AE%E8%93%84%E3%81%88%E6%96%B9/</guid>
+      
+    </item>
+    
+    <item>
+      <title>還元率2%の新しいデビットカード</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;還元率2%の新しいデビットカード&lt;/h1&gt;
+&lt;p&gt;いろいろと忙しくて5月依頼の投稿になってしまいました。&lt;/p&gt;
+&lt;p&gt;さて、住信SBIネット銀行から、新しいデビットカードPoint+がアナウンスされています。一番の特徴は、月末の円普通預金残高に応じてポイント還元率がアップすることで、預金残高1000万円以上でポイント還元率が最大の2%になります。たまるポイントはスマプロポイントというもので、あまり聞いたことはないかもしれませんが、デビットカード支払い時に1ポイント1円換算で利用できるみたいなので、ほぼ現金と同じ感覚で使えるといってよいと思います。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/08/09/%E9%82%84%E5%85%83%E7%8E%872%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%83%93%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/08/09/%E9%82%84%E5%85%83%E7%8E%872%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%83%93%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/</guid>
+      
+    </item>
+    
+    <item>
+      <title>証券口座不正取引問題について</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;証券口座不正取引問題について&lt;/h1&gt;
+&lt;p&gt;最近は、ネット証券への不正アクセス・不正取引問題で盛り上がっていますね。
+今回の騒動でわかったのは、大手証券会社のセキュリティ対策が甘いということです。
+例えば私も使っているSBI証券では、多要素認証なしにログイン可能だった「バックアップサイト」が存在したりとか、一部のアプリがFIDO認証に対応していないことが明らかになりました。（これらについては、現在は対策済みのようです。）&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/05/19/%E8%A8%BC%E5%88%B8%E5%8F%A3%E5%BA%A7%E4%B8%8D%E6%AD%A3%E5%8F%96%E5%BC%95%E5%95%8F%E9%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/05/19/%E8%A8%BC%E5%88%B8%E5%8F%A3%E5%BA%A7%E4%B8%8D%E6%AD%A3%E5%8F%96%E5%BC%95%E5%95%8F%E9%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+      
+    </item>
+    
+    <item>
+      <title>退職後の資産運用・取り崩しについて</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;退職後の資産運用・取り崩しについて&lt;/h1&gt;
+&lt;p&gt;退職後の資産運用について、いつも考えているのですが、
+やはり年齢がどんどん高くなることを考えると、
+できる限りシンプルに運用・取り崩しができることが重要な気がします。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/04/21/%E9%80%80%E8%81%B7%E5%BE%8C%E3%81%AE%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E5%8F%96%E3%82%8A%E5%B4%A9%E3%81%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/04/21/%E9%80%80%E8%81%B7%E5%BE%8C%E3%81%AE%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E5%8F%96%E3%82%8A%E5%B4%A9%E3%81%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+      
+    </item>
+    
+    <item>
+      <title>リバランスの方法</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;リバランスの方法&lt;/h1&gt;
+&lt;p&gt;ちょっと忙しくてブログを更新できていませんでしたが、トランプ関税の影響で、今週は株が結構下がり、為替も円高ドル安に動いたので、オルカンやS&amp;amp;P500で資産を持っているひとは、かなり資産が減ったのではないでしょうか。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/04/05/%E3%83%AA%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/04/05/%E3%83%AA%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%96%B9%E6%B3%95/</guid>
+      
+    </item>
+    
+    <item>
+      <title>相場の変動を恐れるな</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;相場の変動を恐れるな&lt;/h1&gt;
+&lt;p&gt;オルカン(MSCI ACWI)やS&amp;amp;P500の下落が続いています。S&amp;amp;P500は2月中旬の最高値から10%以上の下落(3月13日現在)となり、オルカン(MSCI ACWI)もそれに連動して下落しています。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/03/16/%E7%9B%B8%E5%A0%B4%E3%81%AE%E5%A4%89%E5%8B%95%E3%82%92%E6%81%90%E3%82%8C%E3%82%8B%E3%81%AA/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/03/16/%E7%9B%B8%E5%A0%B4%E3%81%AE%E5%A4%89%E5%8B%95%E3%82%92%E6%81%90%E3%82%8C%E3%82%8B%E3%81%AA/</guid>
+      
+    </item>
+    
+    <item>
+      <title>金利上昇とMRFの復活</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;金利上昇とMRFの復活&lt;/h1&gt;
+&lt;p&gt;新発10年物国債の利回りが上昇し、一時1.5%を超えたことをニュースで知りました。いよいよ金利のある世界がリアルになってきました。日銀がこの先も利上げを継続するという観測も強くなってきました。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/03/06/%E9%87%91%E5%88%A9%E4%B8%8A%E6%98%87%E3%81%A8mrf%E3%81%AE%E5%BE%A9%E6%B4%BB/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/03/06/%E9%87%91%E5%88%A9%E4%B8%8A%E6%98%87%E3%81%A8mrf%E3%81%AE%E5%BE%A9%E6%B4%BB/</guid>
+      
+    </item>
+    
+    <item>
+      <title>退職後の資産運用・取り崩しについて再考</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;退職後の資産運用・取り崩しについて再考&lt;/h1&gt;
+&lt;p&gt;先日、65歳までに必要な資産として6600万円が必要という&lt;a href=&#34;2025-02-21.md&#34;&gt;記事&lt;/a&gt;を書きましたが、少し多すぎるのでもっと減らせないか考えました。
+必要資産を減らすには出費を減らすか、運用による資産拡大を増やすかしかありません。（退職後のことを考えているので、収入を増やすことは考えません。）&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/03/04/%E9%80%80%E8%81%B7%E5%BE%8C%E3%81%AE%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E5%8F%96%E3%82%8A%E5%B4%A9%E3%81%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%86%8D%E8%80%83/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/03/04/%E9%80%80%E8%81%B7%E5%BE%8C%E3%81%AE%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E5%8F%96%E3%82%8A%E5%B4%A9%E3%81%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%86%8D%E8%80%83/</guid>
+      
+    </item>
+    
+    <item>
+      <title>老後資金についてWebで検索すると...</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;老後資金についてWebで検索すると...&lt;/h1&gt;
+&lt;p&gt;Googleで老後資金がどのくらい必要かを調べるために、「老後資金　必要額」で検索してみて少しびっくりしました。最初の10個のリンクのうち、保険会社によるものが6個、銀行によるものが3個、新聞社が1個で保険会社・銀行によるものが圧倒的に多いんです。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/02/23/%E8%80%81%E5%BE%8C%E8%B3%87%E9%87%91%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6web%E3%81%A7%E6%A4%9C%E7%B4%A2%E3%81%99%E3%82%8B%E3%81%A8/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/02/23/%E8%80%81%E5%BE%8C%E8%B3%87%E9%87%91%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6web%E3%81%A7%E6%A4%9C%E7%B4%A2%E3%81%99%E3%82%8B%E3%81%A8/</guid>
+      
+    </item>
+    
+    <item>
+      <title>65歳からの資産取り崩し方法を考える</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;65歳からの資産取り崩し方法を考える&lt;/h1&gt;
+&lt;p&gt;前回の記事で、65歳時点で必要な金額を6600万円と見積りました。
+今回は65歳で6600万円があるとして、それをどのように投資し取り崩していくかを考えます。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/02/22/65%E6%AD%B3%E3%81%8B%E3%82%89%E3%81%AE%E8%B3%87%E7%94%A3%E5%8F%96%E3%82%8A%E5%B4%A9%E3%81%97%E6%96%B9%E6%B3%95%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/02/22/65%E6%AD%B3%E3%81%8B%E3%82%89%E3%81%AE%E8%B3%87%E7%94%A3%E5%8F%96%E3%82%8A%E5%B4%A9%E3%81%97%E6%96%B9%E6%B3%95%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/</guid>
+      
+    </item>
+    
+    <item>
+      <title>老後資金としていくら必要か？</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;老後資金としていくら必要か？&lt;/h1&gt;
+&lt;p&gt;65歳で仕事を辞めて老後資金を取り崩す生活を開始する場合に、65歳時点でいくら必要かを出すのはなかなか難しいということがわかってきました。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/02/21/%E8%80%81%E5%BE%8C%E8%B3%87%E9%87%91%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%8F%E3%82%89%E5%BF%85%E8%A6%81%E3%81%8B/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/02/21/%E8%80%81%E5%BE%8C%E8%B3%87%E9%87%91%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%8F%E3%82%89%E5%BF%85%E8%A6%81%E3%81%8B/</guid>
+      
+    </item>
+    
+    <item>
+      <title>終末格差</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;終末格差&lt;/h1&gt;
+&lt;p&gt;老後資金問題について書かれた「終末格差」（野口悠紀雄著）という本を読みました。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/02/15/%E7%B5%82%E6%9C%AB%E6%A0%BC%E5%B7%AE/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/02/15/%E7%B5%82%E6%9C%AB%E6%A0%BC%E5%B7%AE/</guid>
+      
+    </item>
+    
+    <item>
+      <title>リバランスの目的はリターンを増やすことではない</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;リバランスの目的はリターンを増やすことではない&lt;/h1&gt;
+&lt;h2&gt;面白い記事の紹介&lt;/h2&gt;
+&lt;p&gt;リバランスとリターンの関係について書かれた&lt;a href=&#34;https://www.morningstar.com/columns/rekenthaler-report/when-rebalancing-creates-higher-returnsand-when-it-doesnt&#34;&gt;興味深い記事&lt;/a&gt;を発見したので紹介します。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/02/10/%E3%83%AA%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E7%9B%AE%E7%9A%84%E3%81%AF%E3%83%AA%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%81%93%E3%81%A8%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/02/10/%E3%83%AA%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E7%9B%AE%E7%9A%84%E3%81%AF%E3%83%AA%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%81%93%E3%81%A8%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84/</guid>
+      
+    </item>
+    
+    <item>
+      <title>高齢者のリスク許容度</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;高齢者のリスク許容度&lt;/h1&gt;
+&lt;p&gt;一般には、高齢者は若者に比較してリスク許容度を下げるべきと言われています。
+株式などのリスク資産と現金などの無リスク資産の割合をどうするかについては、昔から以下の数式を用いると良いと言われてきました。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/02/09/%E9%AB%98%E9%BD%A2%E8%80%85%E3%81%AE%E3%83%AA%E3%82%B9%E3%82%AF%E8%A8%B1%E5%AE%B9%E5%BA%A6/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/02/09/%E9%AB%98%E9%BD%A2%E8%80%85%E3%81%AE%E3%83%AA%E3%82%B9%E3%82%AF%E8%A8%B1%E5%AE%B9%E5%BA%A6/</guid>
+      
+    </item>
+    
+    <item>
+      <title>住宅の購入について</title>
+      
+      
+      
+      
+        
+      <category>住宅</category>
+        
+      
+      <description>&lt;h1&gt;住宅の購入について&lt;/h1&gt;
+&lt;p&gt;最近、日銀が政策金利を上げたこともあって、住宅を購入するときに住宅ローンは固定と変動のどちらが良いかということが大きな話題になっています。まあ、一般的には変動より固定の方が安全で破綻が少ないといわれているようです。しかし、本当に固定金利の住宅ローンは安全なのでしょうか？&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/02/07/%E4%BD%8F%E5%AE%85%E3%81%AE%E8%B3%BC%E5%85%A5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/02/07/%E4%BD%8F%E5%AE%85%E3%81%AE%E8%B3%BC%E5%85%A5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+      
+    </item>
+    
+    <item>
+      <title>現金とオルカンの資産取り崩し（定率）シミュレーション</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;現金とオルカンの資産取り崩し（定率）シミュレーション&lt;/h1&gt;
+&lt;p&gt;サンプルデータ(35年)に対して、毎年定率取り崩した場合もシミュレーションしてみました。使用したサンプルデータは定額の場合と同じです。現金の利率も定額の場合と同様に0.6%としました。
+まずは、毎年リバランスした場合の結果です。上段は平均残高、中段は平均取り崩し額と最低取り崩し額、下段は35年間の平均取り崩し額が同率の定額取り崩し額以上だった回数を表しています。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/02/06/%E7%8F%BE%E9%87%91%E3%81%A8%E3%82%AA%E3%83%AB%E3%82%AB%E3%83%B3%E3%81%AE%E8%B3%87%E7%94%A3%E5%8F%96%E3%82%8A%E5%B4%A9%E3%81%97%E5%AE%9A%E7%8E%87%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/02/06/%E7%8F%BE%E9%87%91%E3%81%A8%E3%82%AA%E3%83%AB%E3%82%AB%E3%83%B3%E3%81%AE%E8%B3%87%E7%94%A3%E5%8F%96%E3%82%8A%E5%B4%A9%E3%81%97%E5%AE%9A%E7%8E%87%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      
+    </item>
+    
+    <item>
+      <title>現金とオルカンの資産取り崩し（定額）シミュレーション</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;現金とオルカンの資産取り崩し（定額）シミュレーション&lt;/h1&gt;
+&lt;h2&gt;シミュレーション用データ作成&lt;/h2&gt;
+&lt;p&gt;トリニティスタデイのシミュレーションでは、1925年から1995年までの市場データに対して、株式/債券の構成と引出し率の組み合わせをテストしていましたが、市場データを1年ずつずらしたデータでは同じようなデータが多くあることになるので、もっとランダムなデータによってシミュレーションを行いたいと思い、テスト用のランダムデータを作ることにしました。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/02/01/%E7%8F%BE%E9%87%91%E3%81%A8%E3%82%AA%E3%83%AB%E3%82%AB%E3%83%B3%E3%81%AE%E8%B3%87%E7%94%A3%E5%8F%96%E3%82%8A%E5%B4%A9%E3%81%97%E5%AE%9A%E9%A1%8D%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/02/01/%E7%8F%BE%E9%87%91%E3%81%A8%E3%82%AA%E3%83%AB%E3%82%AB%E3%83%B3%E3%81%AE%E8%B3%87%E7%94%A3%E5%8F%96%E3%82%8A%E5%B4%A9%E3%81%97%E5%AE%9A%E9%A1%8D%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      
+    </item>
+    
+    <item>
+      <title>トリニティスタディ(Trinity Study)と「4%ルール」</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;トリニティスタディ(Trinity Study)と「4%ルール」&lt;/h1&gt;
+&lt;p&gt;トリニティスタディとは、リタイア後の資産取り崩しについて書かれた1998年の&lt;a href=&#34;https://www.aaii.com/files/pdf/6794_retirement-savings-choosing-a-withdrawal-rate-that-is-sustainable.pdf&#34;&gt;論文&lt;/a&gt;のことで、著者がトリニティ大学の3人の教授なのでこの名で呼ばれています。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/01/31/%E3%83%88%E3%83%AA%E3%83%8B%E3%83%86%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3trinity-study%E3%81%A84%E3%83%AB%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/01/31/%E3%83%88%E3%83%AA%E3%83%8B%E3%83%86%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3trinity-study%E3%81%A84%E3%83%AB%E3%83%BC%E3%83%AB/</guid>
+      
+    </item>
+    
+    <item>
+      <title>老後資産が使われない問題について</title>
+      
+      
+      
+      
+        
+      <category>投資</category>
+        
+      
+      <description>&lt;h1&gt;老後資産が使われない問題について&lt;/h1&gt;
+&lt;p&gt;内閣府の「令和6年度経済財政白書」では、85歳を過ぎても金融資産があまり減っておらず、貯めてきた老後資産が使われずに保有されている傾向があると報告されています。このことを問題視する風潮もあるみたいですが、染太郎はこのこと自体は全く問題ないと考えています。以下に理由を述べます。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/01/26/%E8%80%81%E5%BE%8C%E8%B3%87%E7%94%A3%E3%81%8C%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E5%95%8F%E9%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/01/26/%E8%80%81%E5%BE%8C%E8%B3%87%E7%94%A3%E3%81%8C%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E5%95%8F%E9%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Material for MkDocs</title>
+      
+      
+      
+      
+        
+      <category>IT</category>
+        
+      <category>節約</category>
+        
+      
+      <description>&lt;h1&gt;Material for MkDocs&lt;/h1&gt;
+&lt;p&gt;ブログ構築ツールとしては、「WordPress」を使用している人が多いみたいですね。&lt;/p&gt;</description>
+      <link>https://github.com/dozunaru/dozunaru.github.io.git/2025/01/22/material-for-mkdocs/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <source url="https://github.com/dozunaru/dozunaru.github.io.git/feed_rss_created.xml">染太郎（しみたろう）のインデックス投資雑記帳</source>
+      
+      <guid isPermaLink="true">https://github.com/dozunaru/dozunaru.github.io.git/2025/01/22/material-for-mkdocs/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
